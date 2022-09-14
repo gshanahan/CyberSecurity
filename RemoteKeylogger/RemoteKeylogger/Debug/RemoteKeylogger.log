@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\event\Documents\GitHub\CyberSecurity\RemoteKeylogger\RemoteKeylogger\Source.cpp(45,23): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+Source.obj : error LNK2019: unresolved external symbol "int __cdecl Save(int,char const *)" (?Save@@YAHHPBD@Z) referenced in function _main
+    Hint on symbols that are defined and could potentially match:
+      "int __cdecl Save(int,char *)" (?Save@@YAHHPAD@Z)
+C:\Users\event\Documents\GitHub\CyberSecurity\RemoteKeylogger\Debug\RemoteKeylogger.exe : fatal error LNK1120: 1 unresolved externals
